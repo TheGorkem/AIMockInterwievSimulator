@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd /Users/gorkemburakkocoglu/Documents/GitHub/AIMockInterwievSimulator/backend && python -m py_compile services/ai_service\\.py$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
